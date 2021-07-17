@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Code Editor 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a code editor for HTML, CSS and JavaScript.
 
 ## Available Scripts
 
